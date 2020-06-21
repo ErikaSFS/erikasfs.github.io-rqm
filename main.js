@@ -44,7 +44,7 @@
    {  
      "quote": "Honrar a nós mesmas, amar nossos corpos, é uma fase avançada na construção de uma autoestima saudável.",
       "author": "Bell Hooks",
-   }
+   },
 ];
 
 function randomQuotesGenerator() {
